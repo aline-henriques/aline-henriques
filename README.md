@@ -7,6 +7,9 @@ Moro em Recife, PE - Brasil.
 📫 Você pode me encontrar no Instagram! https://www.instagram.com/lineoncode/
 e também por e-mail: alinealbhenriques@gmail.com
 
+
+
+
 👋 Hi, my name is Aline Henriques.
 My pronouns are she/her.
 I live in Recife, PE - Brazil.
