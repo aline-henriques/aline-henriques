@@ -1,6 +1,6 @@
 ˗ˋˏ 👋 Olá, me chamo Aline Henriques.
 
-Sou iniciante na área de tecnologia, buscando aprendizado e novas descobertas de forma autodidata.
+Sou iniciante na área de tecnologia, buscando aprendizado e novas descobertas.
 
 Atualmente, estou com foco nos estudos em Desenvolvimento Web: HTML, CSS e JavaScript - e também Web Design.
 
