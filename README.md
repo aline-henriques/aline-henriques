@@ -6,5 +6,8 @@ Atualmente, estou com foco nos estudos em Desenvolvimento Web: HTML, CSS e JavaS
 
 ˗ˋˏ 📫 Você pode encontrar minhas redes sociais através deste link: https://linktr.ee/lineoncode
 
+Meu Site - Portfólio:
+https://portfolio-alinehenriques.netlify.app/
+
 E também entrar em contato comigo por e-mail: alinealbhenriques@gmail.com
 
